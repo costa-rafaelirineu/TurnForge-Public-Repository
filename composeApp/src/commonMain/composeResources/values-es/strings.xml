@@ -1,0 +1,205 @@
+<resources>
+    <string name="attack_title">ATAQUE</string>
+    <string name="current_preset">MODELO ACTUAL</string>
+    <string name="bonus_label">BONO</string>
+    <string name="damage_label">DAÑO</string>
+    <string name="manual_dice_input">Entrada manual del dado</string>
+    <string name="attack_value_optional">Valor del ataque (opcional)</string>
+    <string name="attack_value_placeholder">Ej: 15</string>
+    <string name="damage_value_label">Valor del daño</string>
+    <string name="damage_value_placeholder">Ej: 8</string>
+    <string name="hit_success">¡ACERTASTE! 💥</string>
+    <string name="hit_miss">FALLASTE... 🛡️</string>
+    <string name="attack_result_label">ATAQUE</string>
+    <string name="damage_result_label">DAÑO</string>
+    <string name="choose_target">ELEGIR OBJETIVO</string>
+    <string name="target_ac_label">CA %1$d</string>
+    <string name="attack_button">ATACAR ⚔️</string>
+    <string name="reroll_button">RE-TIRAR 🎲</string>
+    <string name="finish_button">FINALIZAR</string>
+    <string name="edit_preset">EDITAR MODELO</string>
+    <string name="new_preset">NUEVO MODELO</string>
+    <string name="adjust_target_ac_title">Ajustar CA del Objetivo</string>
+    <string name="select_target_title">Seleccionar Objetivo</string>
+    <string name="hp_label">VP: %1$d/%2$d</string>
+    <string name="cancel_button">CANCELAR</string>
+    <string name="change_preset_title">CAMBIAR MODELO</string>
+    <string name="atk_suffix">+%1$d ATK</string>
+    <string name="delete_preset_desc">Eliminar</string>
+    <string name="edit_attack_dialog_title">EDITAR ATAQUE</string>
+    <string name="new_attack_dialog_title">NUEVO ATAQUE</string>
+    <string name="attack_name_label">Nombre del Ataque</string>
+    <string name="icon_label">Icono</string>
+    <string name="bonus_field_label">Bono</string>
+    <string name="dice_field_label">Dados (ej: 1d8)</string>
+    <string name="modifier_field_label">Modificador</string>
+    <string name="save_button">GUARDAR</string>
+    <string name="ok_button">OK</string>
+
+    <!-- App.kt -->
+    <string name="menu_content_desc">Menú</string>
+    <string name="status_ativos_title">ESTADOS ACTIVOS</string>
+    <string name="editar_status_desc">Editar Estado</string>
+    <string name="adicionar_status_desc">Añadir Estado</string>
+    <string name="oponentes_ativos_title">OPONENTES ACTIVOS</string>
+    <string name="editar_oponentes_desc">Editar Oponentes</string>
+    <string name="adicionar_oponente_desc">Añadir Oponente</string>
+    <string name="sem_oponentes_msg">SIN OPONENTES ACTIVOS</string>
+
+    <!-- AboutSheet.kt -->
+    <string name="sobre_titulo">ACERCA DE TURNFORGE</string>
+    <string name="app_descricao">Aplicación gratuita y sin anuncios para gestionar turnos de RPG</string>
+    <string name="app_avaliacao">¡Si te gustó la app, por favor califícala con 5 estrellas en la Play Store! ⭐⭐⭐⭐⭐</string>
+    <string name="app_creditos">Creado con ❤️ por Rafael Irineu</string>
+    <string name="links_uteis_titulo">🔗 Enlaces Útiles</string>
+    <string name="github_label">📱 GitHub</string>
+    <string name="patreon_label">💝 Patreon</string>
+    <string name="play_store_label">⭐ Valorar en la Play Store</string>
+    <string name="sugestoes_label">Sugerencias, búscame en LinkedIn</string>
+    <string name="fechar_button">CERRAR</string>
+
+    <!-- MagicSheet.kt -->
+    <string name="magias_titulo">MAGIAS Y HABILIDADES</string>
+    <string name="mana_infinito">∞</string>
+    <string name="mana_label">%1$d MP</string>
+    <string name="dano_efeito_label">DAÑO / EFECTO</string>
+    <string name="adicionar_alvo">+ OBJETIVO</string>
+    <string name="editar_button">EDITAR</string>
+    <string name="conjurando_magia">CONJURAR MAGIA ✨</string>
+    <string name="mana_insuficiente">MANA INSUFICIENTE ❌</string>
+    <string name="nova_magia_button">NUEVA</string>
+    <string name="edit_magic_dialog_title">EDITAR MAGIA</string>
+    <string name="new_magic_dialog_title">NUEVA MAGIA</string>
+    <string name="magic_name_label">Nombre de la Magia</string>
+    <string name="mana_cost_label">Coste MP</string>
+    <string name="dice_optional_label">Dados (opcional)</string>
+    <string name="modifier_short_label">Mod.</string>
+    <string name="description_label">Descripción</string>
+
+    <!-- DefenseSheet.kt -->
+    <string name="defesa_titulo">DEFENSA</string>
+    <string name="turnos_label">Turnos: %1$d</string>
+    <string name="defender_button">DEFENDER 🛡️</string>
+    <string name="new_defense_dialog_title">Nuevo Modelo de Defensa</string>
+    <string name="defense_name_label">Nombre de la Defensa</string>
+    <string name="duration_label">Duración (Turnos)</string>
+    <string name="description_effect_label">Descripción / Efecto</string>
+
+    <!-- StatusSheet.kt -->
+    <string name="adicionar_status_titulo">AÑADIR ESTADO</string>
+    <string name="tipo_efeito_label">TIPO DE EFECTO</string>
+    <string name="personalizado_label">Personalizado</string>
+    <string name="duracao_turnos_label">DURACIÓN (TURNOS)</string>
+    <string name="confirmar_button">CONFIRMAR</string>
+    <string name="novo_status_dialog_title">Nuevo Estado</string>
+    <string name="status_name_label">Nombre del Estado</string>
+    <string name="status_icon_label">Icono (Emoji)</string>
+
+    <string name="status_buff_ac">Buff de CA</string>
+    <string name="status_debuff_atk">Debuff de ATQ</string>
+    <string name="status_dot">Daño Continuo</string>
+    <string name="status_hot">Curación Continua</string>
+    <string name="status_reduce_damage">Reducir Daño</string>
+
+    <!-- DiceRollerSheet.kt -->
+    <string name="rolagem_dados_titulo">LANZAMIENTO DE DADOS</string>
+    <string name="expressao_custom_label">EXPRESIÓN PERSONALIZADA</string>
+    <string name="expressao_placeholder">Ej: 2d8 + 1d4 + 5</string>
+    <string name="multi_dice_mode_label">Lanzamiento de múltiples dados</string>
+    <string name="dados_label">DADOS</string>
+    <string name="dados_generic_label">DADOS</string>
+    <string name="modo_rolagem_label">MODO DE LANZAMIENTO</string>
+    <string name="desvantagem_label">DESVENTAJA</string>
+    <string name="normal_label">NORMAL</string>
+    <string name="vantagem_label">VENTAJA</string>
+    <string name="quantidade_label">CANTIDAD</string>
+    <string name="bonus_field_title">BONO</string>
+    <string name="aguardando_rolagem">ESPERANDO LANZAMIENTO...</string>
+    <string name="soma_label">SUMA: %1$d</string>
+    <string name="dado_label">DADO: %1$d</string>
+    <string name="rolar_dados_button">LANZAR DADOS 🎲</string>
+
+    <!-- HistorySheet.kt -->
+    <string name="historico_titulo">HISTORIAL DE TURNOS</string>
+    <string name="atual_tab">ACTUAL</string>
+    <string name="arquivados_tab">ARCHIVADOS</string>
+    <string name="nenhum_turno_msg">Aún no hay turnos registrados.</string>
+    <string name="nenhum_arquivado_msg">Aún no hay historial archivado.</string>
+    <string name="arquivar_button">ARCHIVAR</string>
+    <string name="limpar_historico_button">LIMPIAR</string>
+    <string name="limpar_arquivados_button">LIMPIAR</string>
+    <string name="arquivar_dialog_title">Archivar Historial</string>
+    <string name="arquivar_dialog_msg">¿Estás seguro de que deseas archivar el historial actual? El historial se guardará y se limpiará para comenzar un nuevo turno.</string>
+    <string name="limpar_dialog_title">Limpar Historial</string>
+    <string name="limpar_dialog_msg">¿Estás seguro de que deseas limpiar el historial actual? Esta acción no se puede deshacer.</string>
+    <string name="limpar_arquivados_dialog_title">Limpiar Historiales Archivados</string>
+    <string name="limpar_arquivados_dialog_msg">¿Estás seguro de que deseas limpiar todos los historiales archivados? Esta acción no se puede deshacer.</string>
+    <string name="turno_label">Turno %1$s</string>
+    <string name="ataque_history_log">⚔️ Ataque con %1$s: %2$s (%3$d) - Daño: %4$d</string>
+    <string name="acertou_msg">Acertó</string>
+    <string name="errou_msg">Falló</string>
+    <string name="magia_history_log">✨ Magia %1$s: %2$d (Coste: %3$s)</string>
+    <string name="defesa_history_log">%1$s Defensa: %2$s (%3$d turnos)</string>
+    <string name="dados_history_log">🎲 Tirada %1$s: %2$d</string>
+    <string name="hp_history_log">VP: %1$d ➔ %2$d</string>
+    <string name="mana_history_log">MP: %1$s ➔ %2$s</string>
+    <string name="archive_summary">%1$d turnos • %2$s</string>
+
+    <!-- QuickHpSheet.kt -->
+    <string name="ajustar_vida_titulo">AJUSTAR VIDA</string>
+    <string name="hp_total_label"> / %1$d VP</string>
+    <string name="ajuste_placeholder">Ingresa el valor...</string>
+    <string name="dano_button">DAÑO (-)</string>
+    <string name="cura_button">CURA (+)</string>
+
+    <!-- CharacterEditSheet.kt -->
+    <string name="editar_personagem_titulo">EDITAR PERSONAJE</string>
+    <string name="alterar_label">CAMBIAR</string>
+    <string name="nome_jogador_label">Nombre del Jugador</string>
+    <string name="lvl_label">Nvl</string>
+    <string name="raca_label">Raza</string>
+    <string name="classe_label">Clase</string>
+    <string name="hp_atual_label">VP Actual</string>
+    <string name="hp_maximo_label">VP Máximo</string>
+    <string name="mana_atual_label">Mana Actual</string>
+    <string name="mana_maximo_label">Mana Máximo</string>
+    <string name="mana_infinita_label">Mana Infinito</string>
+    <string name="salvar_alteracoes_button">GUARDAR CAMBIOS</string>
+
+    <!-- EnemyEditSheet.kt -->
+    <string name="adicionar_oponente_titulo">AÑADIR OPONENTE</string>
+    <string name="editar_oponente_titulo">EDITAR OPONENTE</string>
+    <string name="nome_oponente_label">Nombre del Oponente</string>
+    <string name="adicionar_button">AÑADIR</string>
+    <string name="oponente_default_name">Oponente</string>
+
+    <!-- Character Profile Defaults -->
+    <string name="char_default_name">Nombre</string>
+    <string name="char_default_lvl">1</string>
+    <string name="char_default_race">Raza</string>
+    <string name="char_default_class">Clase</string>
+
+    <!-- Preset Defaults -->
+    <string name="preset_attack_sword_name">Espada Larga</string>
+    <string name="preset_attack_bow_name">Arco Largo</string>
+    <string name="preset_attack_dagger_name">Daga</string>
+
+    <string name="preset_magic_fireball_name">Bola de Fuego</string>
+    <string name="preset_magic_fireball_desc">Explosión de fuego.</string>
+    <string name="preset_magic_missiles_name">Misiles Mágicos</string>
+    <string name="preset_magic_missiles_desc">Dardo infalible.</string>
+    <string name="preset_magic_heal_name">Curación Leve</string>
+    <string name="preset_magic_heal_desc">Restaura vida.</string>
+
+    <string name="preset_defense_dodge_name">Esquiva</string>
+    <string name="preset_defense_dodge_desc">Los enemigos tienen desventaja contra ti</string>
+    <string name="preset_defense_block_name">Bloqueo</string>
+    <string name="preset_defense_block_desc">Reduce el daño recibido</string>
+    <string name="preset_defense_shield_name">Escudo</string>
+    <string name="preset_defense_shield_desc">+5 CA hasta el próximo turno</string>
+
+    <string name="undo_label">DESHACER</string>
+    <string name="turn_label_static">TURNO</string>
+    <string name="history_label">HISTORIAL</string>
+    <string name="finish_turn_label">FINALIZAR TURNO</string>
+</resources>

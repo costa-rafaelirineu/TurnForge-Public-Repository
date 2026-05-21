@@ -1,0 +1,17 @@
+# Kotlin Multiplatform
+.kotlin/
+build/
+.gradle/
+
+# Android
+*.iml
+.idea/
+local.properties
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx
+managed_device_android_test_results/
+
+# KSP/Kapt (Generated code should typically not be committed)
+build/generated/
