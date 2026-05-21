@@ -1,3 +1,11 @@
+<img width="300" height="700" alt="Screenshot_20260520_162132" src="https://github.com/user-attachments/assets/84ead891-5c52-4c65-aecd-83aa50276162" />
+<img width="300" height="700" alt="Screenshot_20260520_163338" src="https://github.com/user-attachments/assets/80fb6785-1c70-4260-90b1-d053746645bd" />
+<img width="300" height="700" alt="Screenshot_20260520_162304" src="https://github.com/user-attachments/assets/93560d56-b322-48e5-9c2d-9f0ce728de14" />
+<img width="300" height="700" alt="Screenshot_20260520_162231" src="https://github.com/user-attachments/assets/cfab4b66-5825-426f-b960-26aef4537d96" />
+<img width="300" height="700" alt="Screenshot_20260520_162224" src="https://github.com/user-attachments/assets/e10214bb-4506-442f-9508-b9af02ce7aa9" />
+<img width="300" height="700" alt="Screenshot_20260520_162215" src="https://github.com/user-attachments/assets/fd716aed-1f0a-4014-af87-40a313db1259" />
+<img width="300" height="700" alt="Screenshot_20260520_162149" src="https://github.com/user-attachments/assets/107ff232-7ac8-4d82-8345-6d24b434b4c8" />
+
 # TurnForge
 
 TurnForge é um aplicativo mobile multiplataforma (Android e iOS) desenvolvido para auxiliar jogadores de RPG de mesa durante sessões de combate. O aplicativo automatiza cálculos, gerencia turnos e reduz a fricção durante o gameplay, permitindo que jogadores executem ações de combate em até 2 segundos.
